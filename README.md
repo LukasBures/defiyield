@@ -36,3 +36,12 @@ query {
 
 ## Results
 Results (graphs in pdf format) are stored in ./graphs folder.
+
+## Notes
+- Total number of issues = 3167
+- Total number of IDs = 3326
+- Number of IDs deleted = 3326 - 3167 = 159
+- The oldest incident: 2011-06-13 (Mt. Gox (2))
+- The newest incident: 2023-01-26 (MutantNFTs)
+- The most common issue is: Rugpull (started to increase around 2021), almost 600 issues
+- The most money lost in: Rugpull issues
